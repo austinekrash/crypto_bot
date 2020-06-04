@@ -1,0 +1,23 @@
+﻿TO DO:
+
+FAIT:  se connecter à l'api de kraken et communiquer avec elle
+
+UPDATE: utilisation de la base de donnée coinmarketcap (daily) pour du trading plus long terme.
+
+FAIT: sauvegarder les données dans une data_base
+
+FAIT: réussire à manipuler la base de donnée tout en receuillant les données simultanément (pouvoir faire tourner 2 scripts en même temps)
+
+FAIT: effectuer des calculs/statistiques sur la base de donnée (200MA, MACD, ichimoku...)
+
+apprendre au programme à determiner des zones de support/résistance (locales/générales...)
+
+combiner ces 2 approches afin de construire ma stratégie de trading
+
+backtester ces stratégie sur un echantillon de données passées
+
+determiner la stratégie la plus efficace
+
+lancer le programme avec un portefeuil virtuel sur les données en temps réel
+
+lancer le programme avec un portefeuil réel
