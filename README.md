@@ -12,7 +12,7 @@ Wich me luck!
 
 17/06/2020 23:27 UTC+2
 
-I successfully coded a request python script to get daily Bitcoin data since 2013 (source: coinmarketcap.com) and created a candlstick chart with the MACD indicator for data vizualization.
+I successfully coded a request python script to get daily Bitcoin data since 2013 (source: coinmarketcap.com) created an excel file to store the date as well as a candlstick chart with the MACD indicator for data vizualization.
 
 I included a backtest section to see if our specific strategy was profital with a starting investment of 100 USD.
 
