@@ -8,7 +8,7 @@ In this project, i will try to use the Kraken API (or an existing DataBase of cr
 The first objective of this project is to back test the strategy with existing data to optimize the code.
 the second objective is to throw the bot in the wild and trade autonomously.
 
-Wich me luck!
+Wish me luck!
 
 17/06/2020 23:27 UTC+2
 
@@ -21,4 +21,4 @@ I diplayed the results in a Dataframe.
 The next objective is to manipulate our trading rules for optimizing the results we already had.
 Then, we will include other strategies such as the RSI (Relative Strengh Index) to compare them with each other and select the most profitable strategy for our trading bot to adopt.
 
-Wich me luck!
+Wish me luck!
